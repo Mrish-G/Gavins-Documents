@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Payments
+  structure:
+    - type: space
+      key: space-1
+      title: Payments
+      path: payments
+      default: true
+      content:
+        directory: ./payments
